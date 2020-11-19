@@ -8,7 +8,7 @@ public class AdditionTest {
 
     @Test
     public void add() {
-        System.out.println("Test True condition");
+        System.out.println("Test True -- condition");
         assertTrue(Addition.add(5, 3) == 8);
 
     }
@@ -16,7 +16,7 @@ public class AdditionTest {
 
         @Test
         public void addEquals() {
-            System.out.println("Test addEquals");
+            System.out.println("Test a new test addEquals");
             assertEquals(Addition.add(5, 3), 8);
         }
 
