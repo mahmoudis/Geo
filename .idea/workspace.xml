@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01cc7645-485d-43f8-833f-9a5f0592715b" name="Default Changelist" comment="commit 2">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="01cc7645-485d-43f8-833f-9a5f0592715b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UMONS/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UMONS/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UMONS.AdditionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UMONS.AdditionTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UMONS.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UMONS.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UMONS.AdditionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UMONS.AdditionTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UMONS.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UMONS.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UMONS/AdditionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UMONS/AdditionTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +190,8 @@
       <workItem from="1637603850453" duration="1630000" />
       <workItem from="1637621860561" duration="277000" />
       <workItem from="1637623172199" duration="3662000" />
-      <workItem from="1637676829314" duration="3821000" />
+      <workItem from="1637676829314" duration="5027000" />
+      <workItem from="1638528138927" duration="4911000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1605308248184</created>
@@ -216,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605791129661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2-">
+      <created>1637696628677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637696628677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -267,7 +265,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 2-" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2-" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
